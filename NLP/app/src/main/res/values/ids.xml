@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnAdd" type="id" />
+    <item name="btnPtrn" type="id" />
+    <item name="btnClear" type="id" />
+    <item name="etName" type="id" />
+    <item name="etEmail" type="id" />
+</resources>

@@ -1,1 +1,1 @@
-Приложение тренажер НЛП на основе Basic Activity c реализацией БД SQLite.
+Приложение NLP на основе Basic Activity c реализацией БД SQLite.
